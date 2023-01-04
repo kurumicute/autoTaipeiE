@@ -3,11 +3,6 @@ import random
 import time
 from apscheduler.schedulers.blocking import BlockingScheduler
 from selenium import webdriver
-from datetime import datetime
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver import ActionChains
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from chrome_helper import check_browser_driver_available
 
 scheduler = BlockingScheduler(timezone="Asia/Taipei")
