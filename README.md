@@ -10,6 +10,6 @@
 
 裂開就要重開
 
-可以從這https://drive.google.com/file/d/1o5isgKuQ2lx5fDoDugq3hbHF42Heloky/view?usp=share_link
+可以從這https://drive.google.com/file/d/10mCW2ov7ul_rOtKkA8WbD62CHp2kABll/view?usp=share_link
 
 下載exe檔案一鍵執行，怕被駭的話可以自己把這些檔案打包成exe
