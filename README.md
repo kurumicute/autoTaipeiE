@@ -9,3 +9,7 @@
 有時候台北e大在搞也會裂開
 
 裂開就要重開
+
+可以從這https://drive.google.com/file/d/1o5isgKuQ2lx5fDoDugq3hbHF42Heloky/view?usp=share_link
+
+下載exe檔案一鍵執行，怕被駭的話可以自己把這些檔案打包成exe
